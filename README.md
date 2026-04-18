@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Decode%20DSA&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Mastering%20Data%20Structures%20%26%20Algorithms%20from%20the%20ground%20up&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<!-- Badges Row -->
 <p>
   <img src="https://img.shields.io/badge/Topics%20Covered-20+-6c63ff?style=for-the-badge&logo=bookstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Language-Java%20%2F%20C++-00b4d8?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -52,21 +49,7 @@ rward.
   <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
 </p>
 
----
 
-## 📈 Progress Tracker
-
-```
-Arrays            ████████████████████  ✅ Complete
-Strings           ████████████████░░░░  🔄 In Progress
-Linked Lists      ████████████████████  ✅ Complete
-Stacks & Queues   ██████████████░░░░░░  🔄 In Progress
-Trees             ████████████░░░░░░░░  🔄 In Progress
-Graphs            ████████░░░░░░░░░░░░  🚧 Upcoming
-Dynamic Programming ██████░░░░░░░░░░░░  🚧 Upcoming
-```
-
----
 
 ## 💡 Why This Matters to Recruiters
 
